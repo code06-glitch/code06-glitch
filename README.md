@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @code06-glitch
 - 👀 I’m interested in technology and art.
 - 🌱 I’m currently learning Python.
-- 😄 Pronouns: She
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Wanting to enhance skills at front and back end development.
 
 <!---
