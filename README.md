@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @code06-glitch
+- 👋 Hi, I’m @code06
 - 👀 I’m interested in technology and design.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I also like to take photos.
+- ⚡ Hobbies: Sketching, photography, and movies.
 
 <!---
 code06-glitch/code06-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
